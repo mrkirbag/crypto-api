@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto</title>
+    <link rel="shortcut icon" href="assets/logo.svg" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <div class="main-container">
+            <h1>Crypto Currency</h1>
+
+            <div class="buscador-container">
+                <div>
+                    <label for="crp">Crypto</label>
+                    <select name="crp" id="crp">
+                        <option selected disabled>Selecciona</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="mon">Moneda</label>
+                    <select name="mon" id="mon">
+                        <option selected disabled>Selecciona</option>
+                    </select>
+                </div>
+                <div>
+                    <label style="visibility: hidden;">c</label>
+                    <button id="send">Enviar</button>
+                </div>
+            </div>
+
+            <div class="resultado-container" id="res" style="display: none;"></div>
+
+            <div class="spinner" style="display: none;">
+                <div class="sk-chase">
+                    <div class="sk-chase-dot"></div>
+                    <div class="sk-chase-dot"></div>
+                    <div class="sk-chase-dot"></div>
+                    <div class="sk-chase-dot"></div>
+                    <div class="sk-chase-dot"></div>
+                    <div class="sk-chase-dot"></div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>© 2025 Desarrollado por <a href="https://github.com/mrkirbag" target="_blank">Fadi Kirbag</a></p>
+        </footer>
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

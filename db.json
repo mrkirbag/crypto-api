@@ -1,0 +1,122 @@
+{
+    "cryptocurrencies": [
+        {
+        "name": "Bitcoin",
+        "symbol": "BTC"
+        },
+        {
+        "name": "Ethereum",
+        "symbol": "ETH"
+        },
+        {
+        "name": "Tether",
+        "symbol": "USDT"
+        },
+        {
+        "name": "BNB",
+        "symbol": "BNB"
+        },
+        {
+        "name": "Solana",
+        "symbol": "SOL"
+        },
+        {
+        "name": "XRP",
+        "symbol": "XRP"
+        },
+        {
+        "name": "USDC",
+        "symbol": "USDC"
+        },
+        {
+        "name": "Dogecoin",
+        "symbol": "DOGE"
+        },
+        {
+        "name": "Cardano",
+        "symbol": "ADA"
+        },
+        {
+        "name": "Avalanche",
+        "symbol": "AVAX"
+        },
+        {
+        "name": "Shiba Inu",
+        "symbol": "SHIB"
+        },
+        {
+        "name": "Polkadot",
+        "symbol": "DOT"
+        },
+        {
+        "name": "TRON",
+        "symbol": "TRX"
+        },
+        {
+        "name": "Chainlink",
+        "symbol": "LINK"
+        },
+        {
+        "name": "Litecoin",
+        "symbol": "LTC"
+        }
+    ],
+    "fiat_currencies": [
+        {
+        "name": "Dólar estadounidense",
+        "symbol": "USD"
+        },
+        {
+        "name": "Euro",
+        "symbol": "EUR"
+        },
+        {
+        "name": "Yen japonés",
+        "symbol": "JPY"
+        },
+        {
+        "name": "Libra esterlina",
+        "symbol": "GBP"
+        },
+        {
+        "name": "Franco suizo",
+        "symbol": "CHF"
+        },
+        {
+        "name": "Dólar canadiense",
+        "symbol": "CAD"
+        },
+        {
+        "name": "Yuan chino",
+        "symbol": "CNY"
+        },
+        {
+        "name": "Rupia india",
+        "symbol": "INR"
+        },
+        {
+        "name": "Real brasileño",
+        "symbol": "BRL"
+        },
+        {
+        "name": "Peso mexicano",
+        "symbol": "MXN"
+        },
+        {
+        "name": "Rublo ruso",
+        "symbol": "RUB"
+        },
+        {
+        "name": "Peso colombiano",
+        "symbol": "COP"
+        },
+        {
+        "name": "Peso argentino",
+        "symbol": "ARS"
+        },
+        {
+        "name": "Bolívar venezolano",
+        "symbol": "VES"
+        }
+    ]
+}
