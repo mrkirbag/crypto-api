@@ -229,6 +229,7 @@ footer {
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
+        border-radius: 0;
     }
 
     .main-container {
